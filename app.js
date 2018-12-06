@@ -1,3 +1,4 @@
+//const argv =  process.argv.slice(2)
 const { timer } = require("./controllers");
 
 const main = () => {
